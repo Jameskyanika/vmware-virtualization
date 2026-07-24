@@ -51,11 +51,16 @@ Topics explored included:
 ```text
 vmware-virtualization/
 ├── README.md
-├── certificates/[VMware-Virtualization-101-Certificate.pdf.pdf](https://github.com/user-attachments/files/30336255/VMware-Virtualization-101-Certificate.pdf.pdf)
+├── certificates/
+├── lab-screenshots/
+├── technical-notes/
+└── projects/
+[VMware-Virtualization-101-Certificate.pdf.pdf](https://github.com/user-attachments/files/30337041/VMware-Virtualization-101-Certificate.pdf.pdf)
+<img width="1439" height="617" alt="01-vSphere-Client-Add-Hosts-Workflow png" src="https://github.com/user-attachments/assets/5e4cbd2e-4e2e-439a-bb53-1831d7523f31" />
+<img width="1423" height="867" alt="02-vSphere-Tags-and-Custom-Attributes png" src="https://github.com/user-attachments/assets/5132a87d-73cf-49b1-9589-aab377721d1c" />
+[VMware-Virtualization-101-Certificate.pdf_compressed.pdf](https://github.com/user-attachments/files/30337056/VMware-Virtualization-101-Certificate.pdf_compressed.pdf)
+<img width="643" height="429" alt="Virtualization certificate of completion" src="https://github.com/user-attachments/assets/c9062021-9e62-4bac-ba8c-d79e167571fa" />
 
-├── lab-screenshots/<img width="1439" height="617" alt="01-vSphere-Client-Add-Hosts-Workflow png" src="https://github.com/user-attachments/assets/5b601647-c495-4612-b248-5c7dce3e4f4f" />
-<img width="1423" height="867" alt="02-vSphere-Tags-and-Custom-Attributes png" src="https://github.com/user-attachments/assets/1531f1cd-1f19-4b3c-9d70-1fea706e5686" />
 
-├── technical-notes/[VMware-Virtualization-101-Certificate.pdf_compressed.pdf](https://github.com/user-attachments/files/30336275/VMware-Virtualization-101-Certificate.pdf_compressed.pdf)
 
-└── projects/<img width="643" height="429" alt="Virtualization certificate of completion" src="https://github.com/user-attachments/assets/1f0cd3aa-a224-452a-943e-2c728043cbd6" />
+
