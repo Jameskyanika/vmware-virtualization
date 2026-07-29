@@ -19,6 +19,11 @@ The materials are presented as guided learning projects and laboratory exercises
 - Lab type: Guided hands-on laboratory
 - Time spent: 170 minutes
 - Completion date: 21 April 2026
+## Published Evidence
+
+1. [vSphere Client – Add Hosts Workflow](01-vSphere-Client-Add-Hosts-Workflow.png)
+2. [vSphere Tags and Custom Attributes](02-vSphere-Tags-and-Custom-Attributes.png)
+3. [VMware Virtualization 101 Certificate](03-VMware-Virtualization-101-Certificate.pdf)
 
 ## Lab Objectives
 
